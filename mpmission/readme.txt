@@ -1,1 +1,1 @@
-Copiar para pasta raiz do seu servidor!
+Copiar as PBO para pasta mpmission do seu servidor!
